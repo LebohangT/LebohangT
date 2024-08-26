@@ -1,4 +1,4 @@
-👋 Hi there, I'm Lebohang Thokoane, an energetic lady passionate about business analysis and automated testing. 
+👋 Hi there, I'm Lebohang Thokoane, an energetic lady passionate about business analysis and software testing. 
 Currently diving deep into the world of testing with JMeter while pursuing my Certified Business Analysis Professional (CBAP) certification.
 
 🔍 Exploring the intersections of technology and business, I'm keen on leveraging data-driven insights to optimize processes and drive organizational success. 
